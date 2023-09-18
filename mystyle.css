@@ -12,6 +12,8 @@ h2 {
 }  
 ul{
     color: rgb(230, 48, 223);
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1 {
 color:  rgb(234, 30, 227);
@@ -25,8 +27,7 @@ font-family: "Lucida Handwriting", cursive;
 #paragraph{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5em;
-    float: right;
-    margin-right: 10px;
+
 }
 body {
     background-color: rgb(159, 223, 243);
