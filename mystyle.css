@@ -10,7 +10,9 @@ h2 {
     margin-right: 10px;
     width: 30%
 }  
-
+ul{
+    color: rgb(230, 48, 223);
+}
 h1 {
 color:  rgb(234, 30, 227);
 font-family: "Lucida Handwriting", cursive;
